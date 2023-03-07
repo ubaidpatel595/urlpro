@@ -1,4 +1,4 @@
-# 595-URL-Shortener
+# URL PRO
 
 The 595-URL-Shortener is a tool that creates a permanent link that never expires or gets deleted, even for frequently changing URLs. With this feature, you can easily change the destination URL at any time, ensuring that your links always lead to the right place.
 
@@ -23,4 +23,4 @@ To create a shortened URL without an account, simply enter the original URL and 
 
 ## Contributing
 
-If you would like to contribute to the 595-URL-Shortener project, please contact us at uabidpatel595@gmail.com.
+If you would like to contribute to the 595-URL-Shortener project, please contact us at urlpro595@gmail.com.
