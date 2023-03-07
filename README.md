@@ -11,7 +11,7 @@ The 595-URL-Shortener is a tool that creates a permanent link that never expires
 
 ## Getting Started
 
-To get started using the 595-URL-Shortener, simply navigate to our website at https://595-url-shortner.vercel.app/. You can create a shortened URL without creating an account, but if you want the ability to edit the link in the future, you will need to create an account.
+To get started using the 595-URL-Shortener, simply navigate to our website at https://urlpro.vercel.app/. You can create a shortened URL without creating an account, but if you want the ability to edit the link in the future, you will need to create an account.
 
 ### Prerequisites
 
