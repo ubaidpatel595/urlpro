@@ -314,4 +314,4 @@ def deleteacc():
 def mailtemp():
     return render_template("email.html",otp="123458")
 if __name__ == "__main__":
-    app.run(debug=True,host="192.168.43.160",port=5000)
+    app.run()
